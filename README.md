@@ -1,2 +1,7 @@
-# ek-i_profil
-nick girildiginde eksi sozluk profil fotosu verir
+#eksi profil foto
+
+py3
+calismasi icin tampermonkey scripti gerekiyor
+
+
+
